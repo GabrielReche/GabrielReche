@@ -1,10 +1,13 @@
-<!-- Links para LinkedIn, Gmail -->
+<!-- Links para LinkedIn, Gmail e Whatsapp -->
 <div> 
   <a href="https://www.linkedin.com/in/gabrielreche/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=gabrielreche1999@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail pelo Gmail">
+</a>
+<a href="https://wa.me/5511959265170?text=Olá,%20gostaria%20de%20falar%20com%20você!" target="_blank">
+  <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Enviar mensagem pelo WhatsApp">
 </a>
 </div>
 <br>
