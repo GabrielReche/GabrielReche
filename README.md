@@ -3,14 +3,17 @@
   <a href="https://www.linkedin.com/in/gabrielreche/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=gabrielreche1999@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail pelo Gmail">
-</a>
-<a href="https://wa.me/5511959265170?text=Olá,%20gostaria%20de%20falar%20com%20você!" target="_blank">
-  <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Enviar mensagem pelo WhatsApp">
-</a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=gabrielreche1999@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail pelo Gmail">
+  </a>
+  <a href="https://wa.me/5511959265170?text=Olá,%20gostaria%20de%20falar%20com%20você!" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Enviar mensagem pelo WhatsApp">
+  </a>
 </div>
 <br>
+
+<!-- Imagem de Capa -->
+<img src="https://link-para-sua-imagem/capa.png" alt="Capa do perfil" width="100%">
 
 <!-- Estatísticas do GitHub para GabrielReche -->
 <div>
@@ -18,7 +21,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielReche&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
-
 
 <!-- Ícones de habilidades -->
 <div style="display: inline_block"><br>
@@ -35,12 +37,8 @@
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
-
-<!-- https://github.com/devicons/devicon/tree/master  -->
-
----
-
 <!-- Introdução -->
+---
 Olá, sou o Gabriel e ao longo da minha trajetória profissional, desenvolvi habilidades para gerenciar ambientes híbridos de forma eficiente. Desde a implementação de tecnologias essenciais, como firewalls, antivírus e backups, até a gestão de infraestruturas na nuvem, meu foco é garantir operações fluidas e seguras.
 
 <!-- Gabriel: DevOps -->
