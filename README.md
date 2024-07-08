@@ -13,7 +13,7 @@
 <br>
 
 <!-- Imagem de Capa -->
-<img src="https://link-para-sua-imagem/capa.png" alt="Capa do perfil" width="100%">
+<img src="https://raw.githubusercontent.com/GabrielReche/GabrielReche/master/capa.png" alt="Capa do perfil" width="100%">
 
 <!-- Estatísticas do GitHub para GabrielReche -->
 <div>
