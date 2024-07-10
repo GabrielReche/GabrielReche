@@ -18,7 +18,7 @@
 <!-- Estatísticas do GitHub para GabrielReche -->
 <div>
   <a href="https://github.com/GabrielReche">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel Reche&show_icons=true&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielReche&show_icons=true&theme=dracula"/>
   </a>
 </div>
 
